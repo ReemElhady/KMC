@@ -1,0 +1,114 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "remote.SSH.remotePlatform": {
+    "192.168.250.190": "linux",
+    "192.168.1.2": "linux",
+    "192.168.1.6": "linux",
+    "stage.freaksrepublic.com": "linux",
+    "staging.kandilmedical.com": "linux"
+  },
+  "terminal.integrated.fontFamily": "UbuntuMono Nerd Font Mono",
+  "terminal.integrated.fontSize": 17,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontWeight": "normal",
+  "oneDarkPro.vivid": true,
+  "powershell.startAutomatically": false,
+  "terminal.external.windowsExec": "C:\\Users\\ahmed\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
+  "security.workspace.trust.untrustedFiles": "open",
+  "debug.console.acceptSuggestionOnEnter": "on",
+  "debug.console.fontFamily": "UbuntuMono Nerd Font Mono",
+  "scm.inputFontFamily": "UbuntuMono Nerd Font Mono",
+  "editor.insertSpaces": false,
+  "editor.fontFamily": "UbuntuMono Nerd Font Mono",
+  "markdown.preview.fontFamily": "UbuntuMono Nerd Font Mono",
+  "scm.inputFontSize": 14,
+  "debug.console.fontSize": 15,
+  "markdown.preview.fontSize": 15,
+  "editor.tabSize": 2,
+  "prettier.tabWidth": 2,
+  "editor.formatOnSave": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.fileNesting.enabled": false,
+  "workbench.tree.indent": 15,
+  "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#167772",
+    "editorIndentGuide.activeBackground": "#0b8b78",
+    "editorIndentGuide.background": "#114945"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll": true,
+    "source.organizeImports": true,
+    "source.sortMembers": true
+  },
+  "eslint.validate": ["typescript", "javascript"],
+  "eslint.format.enable": true,
+  "eslint.run": "onSave",
+  "eslint.enable": true,
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "scss.lint.unknownAtRules": "ignore",
+  "css.lint.unknownAtRules": "ignore",
+  "tailwindCSS.emmetCompletions": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "avoid",
+  "prettier.printWidth": 100,
+  "prettier.semi": true,
+  "prettier.trailingComma": "es5",
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "*.ts__tmpl__": "html",
+    "*.html__tmpl__": "html",
+    "*.__style____tmpl__": "html"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": true,
+  "editor.detectIndentation": true,
+
+  "files.exclude": {
+    "**/*.js": {
+      "when": "$(basename).ts"
+    },
+    "**/**.js": {
+      "when": "$(basename).tsx"
+    },
+    "**/**.js.*": {
+      "when": "$(basename).ts"
+    },
+    "**/**.js.map": {
+      "when": "$(basename).ts"
+    }
+  },
+  "terminal.integrated.shellIntegration.enabled": false,
+  "git.enableSmartCommit": true,
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "files.eol": "\n",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "git.openRepositoryInParentFolders": "always",
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
+}

@@ -1,0 +1,140 @@
+2023-05-17 08:52:38.465 [info] 
+
+
+
+
+2023-05-17 08:52:38.465 [info] Extension host agent started.
+2023-05-17 08:52:38.539 [info] Started initializing default profile extensions in extensions installation folder. file:///home/az/.vscode-server/extensions
+2023-05-17 08:52:38.561 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/az/.vscode-server/extensions
+2023-05-17 08:52:38.741 [info] [127.0.0.1][618e663f][ManagementConnection] New connection established.
+2023-05-17 08:52:38.942 [info] [127.0.0.1][8c911b7e][ExtensionHostConnection] New connection established.
+2023-05-17 08:52:38.947 [info] [127.0.0.1][8c911b7e][ExtensionHostConnection] <37307> Launched Extension Host Process.
+2023-05-17 08:53:02.892 [info] [127.0.0.1][618e663f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 08:53:02.910 [info] [127.0.0.1][8c911b7e][ExtensionHostConnection] <37307> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 08:53:02.911 [info] Cancelling previous shutdown timeout
+2023-05-17 08:53:02.911 [info] Last EH closed, waiting before shutting down
+2023-05-17 08:53:11.023 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-05-17 08:53:11.023 [info] Cancelling previous shutdown timeout
+2023-05-17 08:53:11.588 [info] [127.0.0.1][ed003328][ManagementConnection] New connection established.
+2023-05-17 08:53:11.764 [info] [127.0.0.1][97525e15][ExtensionHostConnection] New connection established.
+2023-05-17 08:53:11.780 [info] [127.0.0.1][97525e15][ExtensionHostConnection] <37449> Launched Extension Host Process.
+2023-05-17 08:58:11.024 [info] New EH opened, aborting shutdown
+2023-05-17 09:21:35.178 [info] [127.0.0.1][7ce44b52][ManagementConnection] New connection established.
+2023-05-17 09:21:35.303 [info] [127.0.0.1][98cef69a][ExtensionHostConnection] New connection established.
+2023-05-17 09:21:35.310 [info] [127.0.0.1][98cef69a][ExtensionHostConnection] <39605> Launched Extension Host Process.
+2023-05-17 09:24:47.686 [info] [127.0.0.1][7ce44b52][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 09:24:47.705 [info] [127.0.0.1][98cef69a][ExtensionHostConnection] <39605> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 09:24:49.120 [info] [127.0.0.1][49187fa5][ManagementConnection] New connection established.
+2023-05-17 09:24:49.418 [info] [127.0.0.1][43e08ed4][ExtensionHostConnection] New connection established.
+2023-05-17 09:24:49.423 [info] [127.0.0.1][43e08ed4][ExtensionHostConnection] <40151> Launched Extension Host Process.
+2023-05-17 09:40:25.030 [info] [127.0.0.1][49187fa5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 09:40:25.136 [info] [127.0.0.1][43e08ed4][ExtensionHostConnection] <40151> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 09:45:47.006 [info] Getting Manifest... yy0931.save-as-root
+2023-05-17 09:45:47.050 [info] Installing extension: yy0931.save-as-root
+2023-05-17 09:45:49.408 [info] Extension signature is verified: yy0931.save-as-root
+2023-05-17 09:45:49.453 [info] Extracted extension to /home/az/.vscode-server/extensions/.6ce1ca1b-d731-4fdd-a792-1a2f0319f696: yy0931.save-as-root
+2023-05-17 09:45:49.455 [info] Renamed to /home/az/.vscode-server/extensions/yy0931.save-as-root-1.6.0
+2023-05-17 09:45:49.456 [info] Extracting extension completed. yy0931.save-as-root
+2023-05-17 09:45:49.460 [info] Extension installed successfully: yy0931.save-as-root
+2023-05-17 10:04:21.311 [info] [127.0.0.1][48a2d0c2][ManagementConnection] New connection established.
+2023-05-17 10:04:22.446 [info] [127.0.0.1][c412d6a0][ExtensionHostConnection] New connection established.
+2023-05-17 10:04:22.455 [info] [127.0.0.1][c412d6a0][ExtensionHostConnection] <48019> Launched Extension Host Process.
+2023-05-17 10:04:22.732 [info] [127.0.0.1][ed003328][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 10:04:22.808 [info] [127.0.0.1][97525e15][ExtensionHostConnection] <37449> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 10:04:26.286 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/az/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateIcon (/home/az/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2702)
+    at Object.call (/home/az/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/az/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/az/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/az/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/az/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/az/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/az/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/az/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-05-17 10:04:36.953 [info] [127.0.0.1][48a2d0c2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 10:04:36.971 [info] [127.0.0.1][c412d6a0][ExtensionHostConnection] <48019> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 10:04:36.971 [info] Last EH closed, waiting before shutting down
+2023-05-17 10:04:46.088 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-05-17 10:04:46.088 [info] Cancelling previous shutdown timeout
+2023-05-17 10:04:46.402 [info] [127.0.0.1][207d3192][ManagementConnection] New connection established.
+2023-05-17 10:04:46.549 [info] [127.0.0.1][e33106b9][ExtensionHostConnection] New connection established.
+2023-05-17 10:04:46.557 [info] [127.0.0.1][e33106b9][ExtensionHostConnection] <48192> Launched Extension Host Process.
+2023-05-17 10:04:53.639 [info] [127.0.0.1][459f2587][ManagementConnection] New connection established.
+2023-05-17 10:04:53.806 [info] [127.0.0.1][8e3df72c][ExtensionHostConnection] New connection established.
+2023-05-17 10:04:53.815 [info] [127.0.0.1][8e3df72c][ExtensionHostConnection] <48333> Launched Extension Host Process.
+2023-05-17 10:05:05.838 [info] [127.0.0.1][459f2587][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 10:05:05.860 [info] [127.0.0.1][8e3df72c][ExtensionHostConnection] <48333> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 10:05:05.860 [info] Cancelling previous shutdown timeout
+2023-05-17 10:05:06.858 [info] [127.0.0.1][0b66c112][ManagementConnection] New connection established.
+2023-05-17 10:05:07.038 [info] [127.0.0.1][b9261975][ExtensionHostConnection] New connection established.
+2023-05-17 10:05:07.059 [info] [127.0.0.1][b9261975][ExtensionHostConnection] <48383> Launched Extension Host Process.
+2023-05-17 10:35:45.724 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-17 10:35:55.476 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-17 10:36:23.675 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-17 10:36:34.208 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-17 10:36:44.845 [error] No ptyHost heartbeat after 12 seconds
+2023-05-17 10:36:55.727 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-17 10:37:34.412 [info] [127.0.0.1][207d3192][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 10:37:34.601 [info] [127.0.0.1][e33106b9][ExtensionHostConnection] <48192> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 10:37:36.301 [info] [127.0.0.1][8f99f82a][ManagementConnection] New connection established.
+2023-05-17 10:37:36.958 [info] [127.0.0.1][d900f064][ExtensionHostConnection] New connection established.
+2023-05-17 10:37:36.968 [info] [127.0.0.1][d900f064][ExtensionHostConnection] <51678> Launched Extension Host Process.
+2023-05-17 10:38:16.969 [info] Getting Manifest... donjayamanne.githistory
+2023-05-17 10:38:17.003 [info] Installing extension: donjayamanne.githistory
+2023-05-17 10:38:18.777 [info] Extension signature is verified: donjayamanne.githistory
+2023-05-17 10:38:18.851 [info] Extracted extension to /home/az/.vscode-server/extensions/.3fbaea5b-5ac2-490f-8aea-fce4b4fa47e6: donjayamanne.githistory
+2023-05-17 10:38:18.854 [info] Renamed to /home/az/.vscode-server/extensions/donjayamanne.githistory-0.6.20
+2023-05-17 10:38:18.855 [info] Extracting extension completed. donjayamanne.githistory
+2023-05-17 10:38:18.858 [info] Extension installed successfully: donjayamanne.githistory
+2023-05-17 10:39:08.980 [info] [127.0.0.1][8f99f82a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 10:39:09.002 [info] [127.0.0.1][d900f064][ExtensionHostConnection] <51678> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 10:39:10.068 [info] [127.0.0.1][7cb12c25][ManagementConnection] New connection established.
+2023-05-17 10:39:10.235 [info] [127.0.0.1][21166c68][ExtensionHostConnection] New connection established.
+2023-05-17 10:39:10.254 [info] [127.0.0.1][21166c68][ExtensionHostConnection] <51754> Launched Extension Host Process.
+2023-05-17 10:56:08.402 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-17 10:59:53.026 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-17 11:01:54.073 [info] [127.0.0.1][0af91b10][ManagementConnection] New connection established.
+2023-05-17 11:01:54.295 [info] [127.0.0.1][4b2a2e9e][ExtensionHostConnection] New connection established.
+2023-05-17 11:01:54.312 [info] [127.0.0.1][4b2a2e9e][ExtensionHostConnection] <57402> Launched Extension Host Process.
+2023-05-17 11:02:37.585 [info] [127.0.0.1][0af91b10][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 11:02:37.610 [info] [127.0.0.1][4b2a2e9e][ExtensionHostConnection] <57402> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 11:02:44.210 [info] [127.0.0.1][7f5ae0af][ManagementConnection] New connection established.
+2023-05-17 11:02:44.365 [info] [127.0.0.1][7e254014][ExtensionHostConnection] New connection established.
+2023-05-17 11:02:44.373 [info] [127.0.0.1][7e254014][ExtensionHostConnection] <57625> Launched Extension Host Process.
+2023-05-17 11:06:54.412 [info] [127.0.0.1][b9261975][ExtensionHostConnection] <48383> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 11:06:54.435 [info] [127.0.0.1][21166c68][ExtensionHostConnection] <51754> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 11:16:14.601 [info] [127.0.0.1][0b28758a][ManagementConnection] New connection established.
+2023-05-17 11:16:14.807 [info] [127.0.0.1][37ca53c8][ExtensionHostConnection] New connection established.
+2023-05-17 11:16:14.827 [info] [127.0.0.1][37ca53c8][ExtensionHostConnection] <58132> Launched Extension Host Process.
+2023-05-17 11:16:28.108 [info] [127.0.0.1][0b28758a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 11:16:28.122 [info] [127.0.0.1][37ca53c8][ExtensionHostConnection] <58132> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 11:16:29.161 [info] [127.0.0.1][94c0b535][ManagementConnection] New connection established.
+2023-05-17 11:16:29.305 [info] [127.0.0.1][518248d4][ExtensionHostConnection] New connection established.
+2023-05-17 11:16:29.311 [info] [127.0.0.1][518248d4][ExtensionHostConnection] <58169> Launched Extension Host Process.
+2023-05-17 11:26:07.607 [info] [127.0.0.1][7f5ae0af][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 11:26:07.667 [info] [127.0.0.1][7e254014][ExtensionHostConnection] <57625> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 11:26:08.760 [info] [127.0.0.1][5cd35155][ManagementConnection] New connection established.
+2023-05-17 11:26:09.018 [info] [127.0.0.1][41a1a2f7][ExtensionHostConnection] New connection established.
+2023-05-17 11:26:09.031 [info] [127.0.0.1][41a1a2f7][ExtensionHostConnection] <59007> Launched Extension Host Process.
+2023-05-17 13:01:15.420 [info] [127.0.0.1][5cd35155][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 13:01:15.451 [info] [127.0.0.1][41a1a2f7][ExtensionHostConnection] <59007> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 13:01:16.590 [info] [127.0.0.1][1ceca2b9][ManagementConnection] New connection established.
+2023-05-17 13:01:16.861 [info] [127.0.0.1][5c7c5ccf][ExtensionHostConnection] New connection established.
+2023-05-17 13:01:16.870 [info] [127.0.0.1][5c7c5ccf][ExtensionHostConnection] <63084> Launched Extension Host Process.
+2023-05-17 14:06:39.176 [info] [127.0.0.1][1ceca2b9][ManagementConnection] The client has reconnected.
+2023-05-17 14:06:39.332 [info] [127.0.0.1][5c7c5ccf][ExtensionHostConnection] The client has reconnected.
+2023-05-17 14:06:39.608 [info] [127.0.0.1][94c0b535][ManagementConnection] The client has reconnected.
+2023-05-17 14:07:03.682 [info] [127.0.0.1][518248d4][ExtensionHostConnection] The client has reconnected.
+2023-05-17 14:09:27.408 [info] [127.0.0.1][1ceca2b9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-05-17 14:09:27.480 [info] [127.0.0.1][5c7c5ccf][ExtensionHostConnection] <63084> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 14:09:28.571 [info] [127.0.0.1][04289d66][ManagementConnection] New connection established.
+2023-05-17 14:09:28.691 [info] [127.0.0.1][7403a1a2][ExtensionHostConnection] New connection established.
+2023-05-17 14:09:28.709 [info] [127.0.0.1][7403a1a2][ExtensionHostConnection] <66631> Launched Extension Host Process.
+2023-05-17 17:46:11.422 [info] [127.0.0.1][7403a1a2][ExtensionHostConnection] <66631> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 17:46:11.586 [info] [127.0.0.1][518248d4][ExtensionHostConnection] <58169> Extension Host Process exited with code: 0, signal: null.
+2023-05-17 17:46:11.586 [info] Last EH closed, waiting before shutting down
+2023-05-17 17:51:11.587 [info] Last EH closed, shutting down
